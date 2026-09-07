@@ -1,0 +1,2892 @@
+[
+  {
+    "id": 1,
+    "nome": "Dra. Ana Cardoso Nascimento",
+    "especialidade": "Endocrinologia",
+    "crm": "39256-MG",
+    "email": "ana.cardoso.nascimento@clinicasaude.com",
+    "telefone": "(61) 92679-9935",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Dr. Carlos Reis Teixeira",
+    "especialidade": "Neurologia",
+    "crm": "65392-PR",
+    "email": "carlos.reis.teixeira@clinicasaude.com",
+    "telefone": "(61) 95552-3547",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Dr. Eduardo Santos Dias",
+    "especialidade": "Pneumologia",
+    "crm": "20328-SC",
+    "email": "eduardo.santos.dias@clinicasaude.com",
+    "telefone": "(61) 95803-6925",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Dra. Juliana Carvalho Nascimento",
+    "especialidade": "Clínica Geral",
+    "crm": "93320-PR",
+    "email": "juliana.carvalho.nascimento@clinicasaude.com",
+    "telefone": "(61) 93664-7065",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Dr. Daniel Mendes Alves",
+    "especialidade": "Endocrinologia",
+    "crm": "99733-PR",
+    "email": "daniel.mendes.alves@clinicasaude.com",
+    "telefone": "(61) 91916-4752",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Dr. Lucas Nascimento Pereira",
+    "especialidade": "Endocrinologia",
+    "crm": "83579-SC",
+    "email": "lucas.nascimento.pereira@clinicasaude.com",
+    "telefone": "(61) 95304-8019",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Dr. Alexandre Oliveira Carvalho",
+    "especialidade": "Pneumologia",
+    "crm": "88104-PE",
+    "email": "alexandre.oliveira.carvalho@clinicasaude.com",
+    "telefone": "(61) 99669-5119",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Dra. Carolina Gomes Costa",
+    "especialidade": "Clínica Geral",
+    "crm": "10425-RS",
+    "email": "carolina.gomes.costa@clinicasaude.com",
+    "telefone": "(61) 99201-3927",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Dr. Sérgio Costa Alves",
+    "especialidade": "Fisioterapia",
+    "crm": "10074-GO",
+    "email": "sergio.costa.alves@clinicasaude.com",
+    "telefone": "(61) 96310-9005",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Dra. Camila Barros Rocha",
+    "especialidade": "Fonoaudiologia",
+    "crm": "31643-RS",
+    "email": "camila.barros.rocha@clinicasaude.com",
+    "telefone": "(61) 99645-7932",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Dra. Patrícia Almeida Oliveira",
+    "especialidade": "Urologia",
+    "crm": "12757-GO",
+    "email": "patricia.almeida.oliveira@clinicasaude.com",
+    "telefone": "(61) 94770-4608",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Dra. Tatiana Almeida Nascimento",
+    "especialidade": "Nutrição",
+    "crm": "38080-SC",
+    "email": "tatiana.almeida.nascimento@clinicasaude.com",
+    "telefone": "(61) 93167-8744",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Dra. Mariana Carvalho Cardoso",
+    "especialidade": "Urologia",
+    "crm": "24322-DF",
+    "email": "mariana.carvalho.cardoso@clinicasaude.com",
+    "telefone": "(61) 94139-4116",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Dr. Eduardo Santos Souza",
+    "especialidade": "Fonoaudiologia",
+    "crm": "11934-RJ",
+    "email": "eduardo.santos.souza@clinicasaude.com",
+    "telefone": "(61) 94872-3724",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Dr. Paulo Cardoso Teixeira",
+    "especialidade": "Fonoaudiologia",
+    "crm": "96752-PE",
+    "email": "paulo.cardoso.teixeira@clinicasaude.com",
+    "telefone": "(61) 93536-4111",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Sexta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Dra. Mariana Monteiro Rocha",
+    "especialidade": "Fisioterapia",
+    "crm": "79615-MG",
+    "email": "mariana.monteiro.rocha@clinicasaude.com",
+    "telefone": "(61) 91931-9320",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Dra. Natália Barbosa Souza",
+    "especialidade": "Odontologia",
+    "crm": "20745-BA",
+    "email": "natália.barbosa.souza@clinicasaude.com",
+    "telefone": "(61) 99565-6183",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Dr. Leonardo Araújo Dias",
+    "especialidade": "Ortopedia",
+    "crm": "11220-PE",
+    "email": "leonardo.araújo.dias@clinicasaude.com",
+    "telefone": "(61) 92638-2200",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Dr. Alexandre Teixeira Freitas",
+    "especialidade": "Fisioterapia",
+    "crm": "11025-SC",
+    "email": "alexandre.teixeira.freitas@clinicasaude.com",
+    "telefone": "(61) 95905-2697",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Dra. Viviane Araújo Rodrigues",
+    "especialidade": "Oftalmologia",
+    "crm": "76244-PE",
+    "email": "viviane.araújo.rodrigues@clinicasaude.com",
+    "telefone": "(61) 95114-1832",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Dra. Fernanda Cavalcanti Mendes",
+    "especialidade": "Ginecologia",
+    "crm": "81511-SP",
+    "email": "fernanda.cavalcanti.mendes@clinicasaude.com",
+    "telefone": "(61) 97049-3426",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quarta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Dra. Bianca Almeida Barros",
+    "especialidade": "Pediatria",
+    "crm": "56357-SC",
+    "email": "bianca.almeida.barros@clinicasaude.com",
+    "telefone": "(61) 97658-3532",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Dr. Marcos Moreira Cardoso",
+    "especialidade": "Endocrinologia",
+    "crm": "44970-MG",
+    "email": "marcos.moreira.cardoso@clinicasaude.com",
+    "telefone": "(61) 92771-7267",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Dr. Rodrigo Moreira Oliveira",
+    "especialidade": "Oftalmologia",
+    "crm": "56025-SC",
+    "email": "rodrigo.moreira.oliveira@clinicasaude.com",
+    "telefone": "(61) 97548-9785",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Dra. Juliana Barbosa Gomes",
+    "especialidade": "Gastroenterologia",
+    "crm": "51114-BA",
+    "email": "juliana.barbosa.gomes@clinicasaude.com",
+    "telefone": "(61) 99379-2894",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Dr. Pedro Barros Dias",
+    "especialidade": "Urologia",
+    "crm": "91678-PR",
+    "email": "pedro.barros.dias@clinicasaude.com",
+    "telefone": "(61) 93041-5920",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Dr. Eduardo Correia Silva",
+    "especialidade": "Otorrinolaringologia",
+    "crm": "47606-DF",
+    "email": "eduardo.correia.silva@clinicasaude.com",
+    "telefone": "(61) 98043-6279",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Dr. Thiago Teixeira Rodrigues",
+    "especialidade": "Ginecologia",
+    "crm": "13201-SP",
+    "email": "thiago.teixeira.rodrigues@clinicasaude.com",
+    "telefone": "(61) 95011-8784",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quinta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Dr. André Almeida Pereira",
+    "especialidade": "Cardiologia",
+    "crm": "23970-BA",
+    "email": "andre.almeida.pereira@clinicasaude.com",
+    "telefone": "(61) 94585-3881",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Dr. Gustavo Cardoso Moreira",
+    "especialidade": "Nutrição",
+    "crm": "68991-RS",
+    "email": "gustavo.cardoso.moreira@clinicasaude.com",
+    "telefone": "(61) 95050-5543",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Dra. Camila Pereira Almeida",
+    "especialidade": "Pneumologia",
+    "crm": "30028-DF",
+    "email": "camila.pereira.almeida@clinicasaude.com",
+    "telefone": "(61) 92052-7797",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Dr. Sérgio Carvalho Moreira",
+    "especialidade": "Reumatologia",
+    "crm": "80545-SC",
+    "email": "sergio.carvalho.moreira@clinicasaude.com",
+    "telefone": "(61) 94613-8999",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Dra. Fernanda Freitas Gomes",
+    "especialidade": "Ginecologia",
+    "crm": "70515-MG",
+    "email": "fernanda.freitas.gomes@clinicasaude.com",
+    "telefone": "(61) 91823-5262",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Dr. Pedro Rocha Silva",
+    "especialidade": "Fonoaudiologia",
+    "crm": "16826-PR",
+    "email": "pedro.rocha.silva@clinicasaude.com",
+    "telefone": "(61) 94673-2124",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Dra. Patrícia Pereira Rocha",
+    "especialidade": "Pediatria",
+    "crm": "83920-DF",
+    "email": "patricia.pereira.rocha@clinicasaude.com",
+    "telefone": "(61) 98619-5198",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Dra. Carolina Monteiro Barros",
+    "especialidade": "Pneumologia",
+    "crm": "61990-DF",
+    "email": "carolina.monteiro.barros@clinicasaude.com",
+    "telefone": "(61) 92245-4978",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Dra. Tatiana Freitas Araújo",
+    "especialidade": "Cardiologia",
+    "crm": "65057-PE",
+    "email": "tatiana.freitas.araújo@clinicasaude.com",
+    "telefone": "(61) 92729-8102",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Dra. Fernanda Nascimento Cavalcanti",
+    "especialidade": "Clínica Geral",
+    "crm": "41963-PE",
+    "email": "fernanda.nascimento.cavalcanti@clinicasaude.com",
+    "telefone": "(61) 97209-6511",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Dra. Tatiana Rodrigues Oliveira",
+    "especialidade": "Endocrinologia",
+    "crm": "63271-PE",
+    "email": "tatiana.rodrigues.oliveira@clinicasaude.com",
+    "telefone": "(61) 94937-8800",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Dr. Fábio Cardoso Alves",
+    "especialidade": "Urologia",
+    "crm": "56112-PE",
+    "email": "fábio.cardoso.alves@clinicasaude.com",
+    "telefone": "(61) 95438-6023",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Dra. Larissa Rodrigues Cardoso",
+    "especialidade": "Nutrição",
+    "crm": "46241-GO",
+    "email": "larissa.rodrigues.cardoso@clinicasaude.com",
+    "telefone": "(61) 99595-5636",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Dra. Amanda Souza Souza",
+    "especialidade": "Fonoaudiologia",
+    "crm": "48290-MG",
+    "email": "amanda.souza.souza@clinicasaude.com",
+    "telefone": "(61) 99042-2680",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Dra. Fernanda Carvalho Rocha",
+    "especialidade": "Ortopedia",
+    "crm": "85631-SP",
+    "email": "fernanda.carvalho.rocha@clinicasaude.com",
+    "telefone": "(61) 93485-3444",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Dr. Felipe Moreira Monteiro",
+    "especialidade": "Reumatologia",
+    "crm": "50026-GO",
+    "email": "felipe.moreira.monteiro@clinicasaude.com",
+    "telefone": "(61) 91986-2625",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Dra. Letícia Oliveira Costa",
+    "especialidade": "Cardiologia",
+    "crm": "63545-PE",
+    "email": "leticia.oliveira.costa@clinicasaude.com",
+    "telefone": "(61) 98699-5771",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Dra. Letícia Almeida Freitas",
+    "especialidade": "Ginecologia",
+    "crm": "44816-MG",
+    "email": "leticia.almeida.freitas@clinicasaude.com",
+    "telefone": "(61) 92169-1977",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Dr. Gabriel Alves Rocha",
+    "especialidade": "Clínica Geral",
+    "crm": "20543-GO",
+    "email": "gabriel.alves.rocha@clinicasaude.com",
+    "telefone": "(61) 91653-8078",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Dr. Gabriel Freitas Martins",
+    "especialidade": "Oftalmologia",
+    "crm": "33788-GO",
+    "email": "gabriel.freitas.martins@clinicasaude.com",
+    "telefone": "(61) 98141-9056",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Dr. Sérgio Alves Souza",
+    "especialidade": "Clínica Geral",
+    "crm": "21542-PR",
+    "email": "sergio.alves.souza@clinicasaude.com",
+    "telefone": "(61) 95135-6296",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Dra. Amanda Alves Pereira",
+    "especialidade": "Otorrinolaringologia",
+    "crm": "67424-PE",
+    "email": "amanda.alves.pereira@clinicasaude.com",
+    "telefone": "(61) 92989-1472",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Dra. Juliana Martins Santos",
+    "especialidade": "Ginecologia",
+    "crm": "75323-RS",
+    "email": "juliana.martins.santos@clinicasaude.com",
+    "telefone": "(61) 99337-5479",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Dr. Diego Dias Teixeira",
+    "especialidade": "Fisioterapia",
+    "crm": "45018-SP",
+    "email": "diego.dias.teixeira@clinicasaude.com",
+    "telefone": "(61) 95634-5891",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Dr. Thiago Moreira Reis",
+    "especialidade": "Reumatologia",
+    "crm": "15720-PR",
+    "email": "thiago.moreira.reis@clinicasaude.com",
+    "telefone": "(61) 98749-7246",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Dra. Tatiana Dias Martins",
+    "especialidade": "Cardiologia",
+    "crm": "28894-BA",
+    "email": "tatiana.dias.martins@clinicasaude.com",
+    "telefone": "(61) 93529-2225",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quarta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Dr. Eduardo Souza Barbosa",
+    "especialidade": "Ortopedia",
+    "crm": "40771-RS",
+    "email": "eduardo.souza.barbosa@clinicasaude.com",
+    "telefone": "(61) 94727-2480",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Dr. Carlos Souza Araújo",
+    "especialidade": "Dermatologia",
+    "crm": "48452-PR",
+    "email": "carlos.souza.araújo@clinicasaude.com",
+    "telefone": "(61) 97141-8056",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Dr. Daniel Nascimento Martins",
+    "especialidade": "Oftalmologia",
+    "crm": "97404-SP",
+    "email": "daniel.nascimento.martins@clinicasaude.com",
+    "telefone": "(61) 98622-5712",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Dr. Felipe Rodrigues Carvalho",
+    "especialidade": "Nutrição",
+    "crm": "23979-DF",
+    "email": "felipe.rodrigues.carvalho@clinicasaude.com",
+    "telefone": "(61) 97248-6881",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Dr. Thiago Freitas Rodrigues",
+    "especialidade": "Odontologia",
+    "crm": "42850-MG",
+    "email": "thiago.freitas.rodrigues@clinicasaude.com",
+    "telefone": "(61) 92591-1645",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Dra. Camila Teixeira Alves",
+    "especialidade": "Gastroenterologia",
+    "crm": "79579-SC",
+    "email": "camila.teixeira.alves@clinicasaude.com",
+    "telefone": "(61) 95465-3695",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "nome": "Dr. Carlos Nascimento Alves",
+    "especialidade": "Pediatria",
+    "crm": "69609-PR",
+    "email": "carlos.nascimento.alves@clinicasaude.com",
+    "telefone": "(61) 95295-7242",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "nome": "Dr. Daniel Gomes Santos",
+    "especialidade": "Ginecologia",
+    "crm": "15943-SP",
+    "email": "daniel.gomes.santos@clinicasaude.com",
+    "telefone": "(61) 95986-9071",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "nome": "Dra. Priscila Freitas Santos",
+    "especialidade": "Nutrição",
+    "crm": "90694-BA",
+    "email": "priscila.freitas.santos@clinicasaude.com",
+    "telefone": "(61) 95583-1536",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "nome": "Dr. João Carvalho Nascimento",
+    "especialidade": "Psiquiatria",
+    "crm": "26011-PE",
+    "email": "joao.carvalho.nascimento@clinicasaude.com",
+    "telefone": "(61) 92501-4475",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "nome": "Dra. Fernanda Correia Reis",
+    "especialidade": "Fonoaudiologia",
+    "crm": "37152-GO",
+    "email": "fernanda.correia.reis@clinicasaude.com",
+    "telefone": "(61) 94538-4817",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "nome": "Dra. Juliana Barros Moreira",
+    "especialidade": "Cardiologia",
+    "crm": "27275-SP",
+    "email": "juliana.barros.moreira@clinicasaude.com",
+    "telefone": "(61) 96869-4898",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "nome": "Dr. Gabriel Santos Cardoso",
+    "especialidade": "Ortopedia",
+    "crm": "72422-PE",
+    "email": "gabriel.santos.cardoso@clinicasaude.com",
+    "telefone": "(61) 96931-9408",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "nome": "Dr. Marcos Santos Rocha",
+    "especialidade": "Clínica Geral",
+    "crm": "19632-RJ",
+    "email": "marcos.santos.rocha@clinicasaude.com",
+    "telefone": "(61) 96277-3430",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "nome": "Dra. Cristina Freitas Cavalcanti",
+    "especialidade": "Fonoaudiologia",
+    "crm": "38183-BA",
+    "email": "cristina.freitas.cavalcanti@clinicasaude.com",
+    "telefone": "(61) 98398-4743",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "nome": "Dra. Fernanda Correia Oliveira",
+    "especialidade": "Ortopedia",
+    "crm": "66606-RJ",
+    "email": "fernanda.correia.oliveira@clinicasaude.com",
+    "telefone": "(61) 97105-3131",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "nome": "Dr. Rafael Monteiro Ribeiro",
+    "especialidade": "Psiquiatria",
+    "crm": "30280-PE",
+    "email": "rafael.monteiro.ribeiro@clinicasaude.com",
+    "telefone": "(61) 94674-2773",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "nome": "Dr. Paulo Reis Lima",
+    "especialidade": "Urologia",
+    "crm": "56009-SP",
+    "email": "paulo.reis.lima@clinicasaude.com",
+    "telefone": "(61) 93972-3347",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "nome": "Dr. Felipe Cardoso Araújo",
+    "especialidade": "Psicologia",
+    "crm": "88148-RJ",
+    "email": "felipe.cardoso.araújo@clinicasaude.com",
+    "telefone": "(61) 91861-3549",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "nome": "Dr. Vinícius Barbosa Martins",
+    "especialidade": "Reumatologia",
+    "crm": "45804-DF",
+    "email": "vinicius.barbosa.martins@clinicasaude.com",
+    "telefone": "(61) 99394-2864",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "nome": "Dra. Patrícia Carvalho Barbosa",
+    "especialidade": "Dermatologia",
+    "crm": "11007-DF",
+    "email": "patricia.carvalho.barbosa@clinicasaude.com",
+    "telefone": "(61) 95938-4460",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "nome": "Dr. Eduardo Mendes Almeida",
+    "especialidade": "Fisioterapia",
+    "crm": "83233-PR",
+    "email": "eduardo.mendes.almeida@clinicasaude.com",
+    "telefone": "(61) 92180-7505",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "nome": "Dr. Ricardo Gomes Monteiro",
+    "especialidade": "Pneumologia",
+    "crm": "93904-BA",
+    "email": "ricardo.gomes.monteiro@clinicasaude.com",
+    "telefone": "(61) 95743-2887",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "nome": "Dra. Priscila Monteiro Carvalho",
+    "especialidade": "Fisioterapia",
+    "crm": "20308-BA",
+    "email": "priscila.monteiro.carvalho@clinicasaude.com",
+    "telefone": "(61) 96083-6562",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "nome": "Dra. Patrícia Santos Pereira",
+    "especialidade": "Oftalmologia",
+    "crm": "35856-MG",
+    "email": "patricia.santos.pereira@clinicasaude.com",
+    "telefone": "(61) 93504-2234",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "nome": "Dr. Daniel Lima Teixeira",
+    "especialidade": "Oftalmologia",
+    "crm": "87518-SP",
+    "email": "daniel.lima.teixeira@clinicasaude.com",
+    "telefone": "(61) 96766-9312",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "nome": "Dr. Ricardo Freitas Rodrigues",
+    "especialidade": "Urologia",
+    "crm": "89299-PE",
+    "email": "ricardo.freitas.rodrigues@clinicasaude.com",
+    "telefone": "(61) 99214-3471",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "nome": "Dr. Marcelo Dias Lima",
+    "especialidade": "Pneumologia",
+    "crm": "63578-PR",
+    "email": "marcelo.dias.lima@clinicasaude.com",
+    "telefone": "(61) 91857-6482",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "nome": "Dra. Vanessa Oliveira Monteiro",
+    "especialidade": "Ginecologia",
+    "crm": "55851-RS",
+    "email": "vanessa.oliveira.monteiro@clinicasaude.com",
+    "telefone": "(61) 97421-3112",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "nome": "Dra. Bianca Mendes Correia",
+    "especialidade": "Fisioterapia",
+    "crm": "22249-BA",
+    "email": "bianca.mendes.correia@clinicasaude.com",
+    "telefone": "(61) 99331-6928",
+    "ativo": false,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "nome": "Dra. Carolina Moreira Teixeira",
+    "especialidade": "Pediatria",
+    "crm": "76543-SC",
+    "email": "carolina.moreira.teixeira@clinicasaude.com",
+    "telefone": "(61) 99626-1618",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "nome": "Dr. João Gomes Fernandes",
+    "especialidade": "Endocrinologia",
+    "crm": "68222-GO",
+    "email": "joao.gomes.fernandes@clinicasaude.com",
+    "telefone": "(61) 95668-8355",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "nome": "Dr. Sérgio Carvalho Ribeiro",
+    "especialidade": "Fisioterapia",
+    "crm": "64874-MG",
+    "email": "sergio.carvalho.ribeiro@clinicasaude.com",
+    "telefone": "(61) 94271-3267",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "nome": "Dra. Carolina Oliveira Reis",
+    "especialidade": "Neurologia",
+    "crm": "45755-PE",
+    "email": "carolina.oliveira.reis@clinicasaude.com",
+    "telefone": "(61) 99410-3414",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "nome": "Dr. João Carvalho Ribeiro",
+    "especialidade": "Gastroenterologia",
+    "crm": "40903-BA",
+    "email": "joao.carvalho.ribeiro@clinicasaude.com",
+    "telefone": "(61) 92337-7142",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "nome": "Dr. Leonardo Barbosa Silva",
+    "especialidade": "Ortopedia",
+    "crm": "12490-RS",
+    "email": "leonardo.barbosa.silva@clinicasaude.com",
+    "telefone": "(61) 94533-3449",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "nome": "Dra. Débora Barbosa Alves",
+    "especialidade": "Cardiologia",
+    "crm": "92831-SC",
+    "email": "debora.barbosa.alves@clinicasaude.com",
+    "telefone": "(61) 94963-3352",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quarta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "nome": "Dra. Bianca Barros Oliveira",
+    "especialidade": "Fisioterapia",
+    "crm": "57265-RJ",
+    "email": "bianca.barros.oliveira@clinicasaude.com",
+    "telefone": "(61) 99618-9914",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quinta",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "nome": "Dr. Rodrigo Cardoso Silva",
+    "especialidade": "Gastroenterologia",
+    "crm": "18855-PR",
+    "email": "rodrigo.cardoso.silva@clinicasaude.com",
+    "telefone": "(61) 94950-2698",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "nome": "Dra. Camila Oliveira Mendes",
+    "especialidade": "Clínica Geral",
+    "crm": "14847-RS",
+    "email": "camila.oliveira.mendes@clinicasaude.com",
+    "telefone": "(61) 94302-1717",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "nome": "Dr. João Reis Freitas",
+    "especialidade": "Psiquiatria",
+    "crm": "47501-PR",
+    "email": "joao.reis.freitas@clinicasaude.com",
+    "telefone": "(61) 91783-6438",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Terça",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Sexta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "nome": "Dr. Gabriel Nascimento Teixeira",
+    "especialidade": "Ortopedia",
+    "crm": "65640-RJ",
+    "email": "gabriel.nascimento.teixeira@clinicasaude.com",
+    "telefone": "(61) 98055-3956",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "18:00",
+        "fim": "21:00"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "nome": "Dra. Viviane Martins Fernandes",
+    "especialidade": "Clínica Geral",
+    "crm": "15551-PR",
+    "email": "viviane.martins.fernandes@clinicasaude.com",
+    "telefone": "(61) 98126-5498",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "13:00",
+        "fim": "17:00"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "nome": "Dra. Camila Moreira Barbosa",
+    "especialidade": "Clínica Geral",
+    "crm": "14561-MG",
+    "email": "camila.moreira.barbosa@clinicasaude.com",
+    "telefone": "(61) 92101-4866",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "13:00",
+        "fim": "17:00"
+      },
+      {
+        "dia": "Quarta",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "nome": "Dr. Sérgio Oliveira Monteiro",
+    "especialidade": "Ginecologia",
+    "crm": "79397-PR",
+    "email": "sergio.oliveira.monteiro@clinicasaude.com",
+    "telefone": "(61) 97521-6150",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Sábado",
+        "inicio": "08:00",
+        "fim": "12:00"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "nome": "Dr. Sérgio Nascimento Mendes",
+    "especialidade": "Clínica Geral",
+    "crm": "38124-GO",
+    "email": "sergio.nascimento.mendes@clinicasaude.com",
+    "telefone": "(61) 95678-9047",
+    "ativo": true,
+    "disponibilidade": [
+      {
+        "dia": "Segunda",
+        "inicio": "18:00",
+        "fim": "21:00"
+      },
+      {
+        "dia": "Terça",
+        "inicio": "08:00",
+        "fim": "12:00"
+      },
+      {
+        "dia": "Quinta",
+        "inicio": "14:00",
+        "fim": "18:00"
+      }
+    ]
+  }
+]
